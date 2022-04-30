@@ -1,4 +1,4 @@
 # Bootstrap5-sample
 Just for fun.
 - I have other (better) Bootstrap samples. 
-- No outside JS used.
+- No JS used.
